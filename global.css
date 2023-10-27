@@ -11,3 +11,12 @@ header {
 main {
     padding: 0.5rem;
 }
+
+
+body {
+    background : rgb(195, 153, 240);
+}
+
+nav {
+    background : rgb(195, 153, 240);
+}
