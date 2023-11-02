@@ -14,9 +14,20 @@ main {
 
 
 body {
-    background : rgb(195, 153, 240);
+    background: rgb(195, 153, 240);
 }
 
 nav {
-    background : rgb(195, 153, 240);
+    background: rgb(195, 153, 240);
+}
+
+footer {
+    background-color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    margin: 2rem;
 }
